@@ -1,7 +1,7 @@
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-public class SortTest {
+public class test_sort {
 
 @Test
 public void test1() {
